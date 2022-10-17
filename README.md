@@ -42,7 +42,7 @@
 <h2> 🔥 Stats </h2>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=kugelblitz-slayer&theme=dark&date_format=M%20j%5B%2C%20Y%5D" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00slayer7&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kugelblitz-slayer&layout=compact&theme=vision-friendly-dark" />
 </div>
 
 <h2> 😆 Fun </h2>
